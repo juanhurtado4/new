@@ -3,10 +3,11 @@
 
 ## Synopsis
 
-- A group of computer programmers movie to San Francisco in hopes of making it big.
+- A group of computer programmers move to San Francisco in hopes of taking down Facebook to create the new social media giant called "BookFace".
 
 ## Cast
 
-- Computer programmer one: Alan Davis
-- Computer programmer two: Anthony Box
-- Computer programmer three: Laurel Machak
+- Fake Zuckerburg: Alan Davis
+- Fake Sean Parker: Anthony Box
+- Real Zuckerburg: Matthew
+- Janitor: Laurel Machak
